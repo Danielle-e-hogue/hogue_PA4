@@ -1,0 +1,1 @@
+{jersey=1, wearing=2, Auburn=1, an=1, I'm=2}
